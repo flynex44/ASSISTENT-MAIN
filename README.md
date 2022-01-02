@@ -5,7 +5,7 @@
 >0. [Скачать](https://drive.google.com/file/d/1pfGYpR0WMVY5qsMH9C17Q-xQLeTeS7nb/view?usp=sharing)
 >> Установка библиотек:
 >>> pip install SpeechRecognition
->>>> pip install rcon
+>>> pip install rcon
 
 >1. Запуск сервера
 >> Запускаем файл 'start 1.bat' и ждём полной загрузки сервера
